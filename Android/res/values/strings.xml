@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_dialog">Input the keyword you want to search</string>
+    <string name="app_name">TransparentWebSearch</string>
+	<string name="browse"> Go </string>
+</resources>
